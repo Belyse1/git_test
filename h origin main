@@ -1,0 +1,17 @@
+[33mcommit c0ee840bd5815ffb8203ee1de995620c4645c68d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Belyse1 <bk@eacc.ac.rw>
+Date:   Fri Oct 17 14:38:21 2025 +0200
+
+    Edit README.md and hello_world.txt
+
+[33mcommit d548e7f94a4e5dedc063ffe7bd56de21c234cbea[m
+Author: Belyse1 <bk@eacc.ac.rw>
+Date:   Fri Oct 17 14:30:49 2025 +0200
+
+    Add hello_world.txt
+
+[33mcommit b6481153024f5253449ca97e9e5e0963eb43f663[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Belyse Ishimwe <bk@eacc.ac.rw>
+Date:   Tue Apr 29 14:40:32 2025 +0200
+
+    Initial commit
